@@ -1,0 +1,4 @@
+backend/src/main/resources/application-hidden.properties
+
+backend/target/
+frontend/node_modules/
