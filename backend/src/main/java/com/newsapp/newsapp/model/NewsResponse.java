@@ -1,8 +1,6 @@
-package com.newsapp.newsapp.service;
+package com.newsapp.newsapp.model;
 
 import java.util.List;
-
-import com.newsapp.newsapp.model.Article;
 
 //class for the JSON response from NewsAPI
 

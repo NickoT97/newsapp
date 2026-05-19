@@ -1,9 +1,8 @@
 package com.newsapp.newsapp.model;
-
-//article class to contain the data retrieved from JSON
 //getters and setters set up
 
 public class Article {
+    private Source source;
     private String author;
     private String title;
     private String description;
@@ -13,6 +12,14 @@ public class Article {
     private String content;
 
     public Article() {} //blank constructor
+
+    public Source source(){
+        return source;
+    }
+
+    public void setSource(Source source){
+        this.source = source;
+    }
 
     public String getAuthor(){
         return author;

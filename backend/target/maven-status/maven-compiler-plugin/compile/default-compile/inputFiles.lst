@@ -1,1 +1,6 @@
-/Users/nicko/Desktop/HS CS/newsapp/backend/src/main/java/com/newsapp/newsapp/NewsappApplication.java
+/Users/nicko/Documents/GitHub/newsapp/backend/src/main/java/com/newsapp/newsapp/NewsappApplication.java
+/Users/nicko/Documents/GitHub/newsapp/backend/src/main/java/com/newsapp/newsapp/controller/NewsController.java
+/Users/nicko/Documents/GitHub/newsapp/backend/src/main/java/com/newsapp/newsapp/model/Article.java
+/Users/nicko/Documents/GitHub/newsapp/backend/src/main/java/com/newsapp/newsapp/model/NewsResponse.java
+/Users/nicko/Documents/GitHub/newsapp/backend/src/main/java/com/newsapp/newsapp/model/Source.java
+/Users/nicko/Documents/GitHub/newsapp/backend/src/main/java/com/newsapp/newsapp/service/NewsService.java
