@@ -13,7 +13,7 @@ public class Article {
 
     public Article() {} //blank constructor
 
-    public Source source(){
+    public Source getSource(){
         return source;
     }
 
